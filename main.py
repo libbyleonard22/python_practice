@@ -1,14 +1,16 @@
-print("Hello World")
+def topFiveMovies():
+    #print first movie
+    print("Finding Dory")       
 
-#print first movie
-print("Finding Dory")
+        #print second movie
+    print("Little Rascals")
 
-#print second movie
-print("Finding Nemo")
+        #print third movie
+    print("Unbroken")
 
-#print third movie
-print("Veggie Tales")
+topFiveMovies()
+print("A Dog's Purpose")
 
-print("test")
-
-:))))
+def topThreeSports():
+    print("Basketball")
+    print("Soccer")
