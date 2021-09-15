@@ -1,16 +1,16 @@
-def topFiveMovies():
-    #print first movie
-    print("Finding Dory")       
+def topFiveFoodTypes():
+    #print first type
+    print("Italian")
 
-        #print second movie
-    print("Little Rascals")
+    #print second type
+    print("Mexican")
 
-        #print third movie
-    print("Unbroken")
+    #print third type
+    print ("American")
 
-topFiveMovies()
-print("A Dog's Purpose")
+    #print forth type
+    print("Swedish")
 
-def topThreeSports():
-    print("Basketball")
-    print("Soccer")
+    #print fifth type
+    print ("German")
+topFiveFoodTypes()
